@@ -1,0 +1,5 @@
+{
+  "name": "Gemini 3D Camera",
+  "description": "Upload an image and generate new perspectives using AI-powered 3D camera controls.",
+  "requestFramePermissions": []
+}
